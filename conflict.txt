@@ -1,1 +1,2 @@
- conflict creation by feature-2
+<<<<<<< HEAD
+conflict creation using feature-4
